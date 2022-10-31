@@ -33,7 +33,3 @@ N/A
 * [Data Visualization with Tableau 2019.x in Practice [Video]](https://www2.packtpub.com/business/data-visualization-tableau-2019x-practice-video)
 
 * [Mastering Data Visualization with QlikView [Video]](https://www2.packtpub.com/big-data-and-business-intelligence/mastering-data-visualization-qlikview-video)
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789536959">https://packt.link/free-ebook/9781789536959 </a> </p>
